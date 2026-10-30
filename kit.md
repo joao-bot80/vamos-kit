@@ -1,6 +1,6 @@
 # ¡Vamos! — Kit de divulgação (nome na loja: Vamos Espanha!)
 
-Atualizado em 28/10/2026. Versão em página web: https://joao-bot80.github.io/vamos-kit/. Resumo para robôs: https://joao-bot80.github.io/vamos-kit/llms.txt.
+Atualizado em 30/10/2026. Versão em página web: https://joao-bot80.github.io/vamos-kit/. Resumo para robôs: https://joao-bot80.github.io/vamos-kit/llms.txt.
 
 > Este documento é a fonte de informação para divulgar o app ¡Vamos!. Leia a seção "Regras de comunicação" antes de escrever qualquer texto. Tudo aqui foi conferido com o conteúdo real do app.
 
@@ -10,7 +10,7 @@ Atualizado em 28/10/2026. Versão em página web: https://joao-bot80.github.io/v
 - **Tamanho do curso:** 117 lições em 39 unidades, em 9 etapas no mapa. 21 das lições são de "Papelada" (linguagem da burocracia para quem vai morar na Espanha).
 - **Para quem:** adultos brasileiros que vão viajar, estudar, trabalhar ou morar na Espanha, ou que já vivem lá, e querem o espanhol usado lá.
 - **Planos:** 7 lições grátis; depois, compra única do curso atual ou assinatura mensal Premium (detalhes gerais abaixo).
-- **Status:** iOS em análise na App Store (link será adicionado quando aprovado); Android em teste fechado (beta); protótipo web de demonstração disponível.
+- **Status:** iOS disponível na App Store (iPhone e iPad): https://apps.apple.com/br/app/vamos-espanha/id6823107067; Android em teste fechado (beta); protótipo web de demonstração disponível.
 - **Nome na loja:** Vamos Espanha!
 
 ## O que é o app
@@ -96,13 +96,13 @@ Exemplos de vocabulário: cita previa (agendamento), huellas (digitais), empadro
 
 ## Status e links
 
-| Plataforma | Situação em 28/10/2026 |
+| Plataforma | Situação em 30/10/2026 |
 |---|---|
-| iOS (iPhone e iPad) | Em análise pela Apple (App Store). **Link será adicionado quando for aprovado.** |
+| iOS (iPhone e iPad) | **Disponível na App Store:** https://apps.apple.com/br/app/vamos-espanha/id6823107067 |
 | Android | Em teste fechado (beta), com acesso por convite. Ainda não está público no Google Play. |
 | Navegador (demonstração) | https://joao-bot80.github.io/vale-prototype/ (protótipo web com todas as lições abertas; serve para conhecer o app, não é a versão final e não tem compras) |
 
-Não divulgue link de loja antes de o app estar publicado. Este kit será atualizado com os links quando existirem.
+Link oficial da App Store: https://apps.apple.com/br/app/vamos-espanha/id6823107067. O link do Android só deve ser divulgado quando o app estiver público no Google Play.
 
 ## Mensagens-chave
 
@@ -207,11 +207,11 @@ Textos-modelo para adaptar. Use a voz de quem posta. Troque "link na bio" pelo l
 
 **Legenda sugerida:** O Lino avisa: na Espanha, coche é carro, vaso é copo, carpeta é pasta e luego é depois. 🐾 Mais dicas do nosso lince no ¡Vamos!. #falsosamigos #espanhol
 
-### 10. Post/Stories de status: onde baixar
+### 10. Post/Stories de lançamento: onde baixar
 
-**Roteiro:** Use enquanto o app estiver em fase de lançamento. Inclua o link só depois que a loja liberar. iOS: em análise na App Store. Android: teste fechado. Para quem quer experimentar já: protótipo no navegador.
+**Roteiro:** iOS: já disponível na App Store (use o link oficial do kit). Android: ainda em teste fechado, não divulgue link nem prometa data. Para quem não tem iPhone e quer experimentar: protótipo no navegador.
 
-**Legenda sugerida:** O ¡Vamos! está chegando! 🎉 Espanhol da Espanha para brasileiros, com mapa, carimbos no passaporte e as 7 primeiras lições grátis. Em breve nas lojas; enquanto isso, dá para dar uma espiada no navegador (versão de demonstração): https://joao-bot80.github.io/vale-prototype/ #espanhol #lancamento
+**Legenda sugerida:** O ¡Vamos! chegou à App Store! 🎉 Espanhol da Espanha para brasileiros, com mapa, carimbos no passaporte e as 7 primeiras lições grátis. Já disponível na App Store (iPhone e iPad): https://apps.apple.com/br/app/vamos-espanha/id6823107067 (Android: teste fechado). Dá também para dar uma espiada no navegador (versão de demonstração): https://joao-bot80.github.io/vale-prototype/ #espanhol #lancamento
 
 **Hashtags úteis:** #espanhol #aprenderespanhol #espanholparabrasileiros #falsosamigos #morarnaespanha #viagemparaespanha #espanhadaespanha #madrid
 
@@ -227,7 +227,7 @@ Textos-modelo para adaptar. Use a voz de quem posta. Troque "link na bio" pelo l
 8. Preços: fale só em termos gerais (veja "Planos e preços"). Não invente valores, descontos, testes grátis ou promessas de gratuidade além das 7 lições grátis. O preço exibido na loja, antes da compra, é o que vale.
 9. Não prometa resultados ("fluente em X dias"). Fale de prática, vocabulário e situações reais.
 10. Se o post for parceria ou publicidade, identifique conforme as regras da plataforma e da legislação aplicável.
-11. Use apenas os links oficiais deste kit. O link da loja só deve ser divulgado depois que o app estiver aprovado e publicado.
+11. Use apenas os links oficiais deste kit. O link do Google Play só deve ser divulgado depois que o app estiver publicado no Android.
 
 ## Materiais (imagens)
 
@@ -290,6 +290,7 @@ Observações: as capturas de iPhone e iPad são as mesmas usadas na App Store. 
 
 ## Contato e links oficiais
 
+- App Store (iOS): https://apps.apple.com/br/app/vamos-espanha/id6823107067
 - Site: https://vamos.acedigitallabs.com/
 - Suporte: https://vamos.acedigitallabs.com/suporte
 - Política de privacidade: https://vamos.acedigitallabs.com/privacidade.html

@@ -1,6 +1,6 @@
 # ¡Vamos! (Vamos Espanha!)
 
-> App de espanhol da Espanha para brasileiros: 117 lições em 39 unidades e 9 etapas num mapa da Espanha, com a Lu (guia) e o Lino (lince mascote), jogo de falsos amigos "Igual, Quase ou Armadilha?", diálogos com áudio e a etapa Papelada para quem vai morar na Espanha. 7 lições grátis; compra única ou assinatura mensal para o curso completo. iOS em análise na App Store; Android em teste fechado.
+> App de espanhol da Espanha para brasileiros: 117 lições em 39 unidades e 9 etapas num mapa da Espanha, com a Lu (guia) e o Lino (lince mascote), jogo de falsos amigos "Igual, Quase ou Armadilha?", diálogos com áudio e a etapa Papelada para quem vai morar na Espanha. 7 lições grátis; compra única ou assinatura mensal para o curso completo. iOS disponível na App Store; Android em teste fechado.
 
 Leia primeiro o kit completo em texto: as seções "Regras de comunicação" e "Planos e preços" são obrigatórias para qualquer texto de divulgação. Nunca prometa nível de idioma (do Quadro Europeu).
 
@@ -10,6 +10,7 @@ Leia primeiro o kit completo em texto: as seções "Regras de comunicação" e "
 - [Pacote de imagens (zip)](https://joao-bot80.github.io/vamos-kit/vamos-kit-assets.zip): ícone, Lu, Lino, capturas de tela, banners.
 
 ## Links oficiais
+- [App Store (iOS)](https://apps.apple.com/br/app/vamos-espanha/id6823107067)
 - [Site](https://vamos.acedigitallabs.com/)
 - [Suporte](https://vamos.acedigitallabs.com/suporte)
 - [Política de privacidade](https://vamos.acedigitallabs.com/privacidade.html)
